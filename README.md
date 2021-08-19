@@ -6,5 +6,5 @@
 -  contact me at https://twitter.com/ydchen16 via twitter
 
 ----
-![github stats](https://github-readme-stats.vercel.app/api?username=ydchen17&how_icons=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&layout=compact&custom_title=I might be too lazy...)
+![github stats](https://github-readme-stats.vercel.app/api?username=ydchen17&how_icons=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&layout=compact&custom_title=I%20might%20be%20too%20lazy...)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydchen17&layout=compact)](https://github.com/ydchen17)
