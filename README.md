@@ -1,7 +1,7 @@
 ### I'm Yaoding Chen 🇨🇳 !
 [![Website Badge](https://img.shields.io/badge/My-Website-brightgreen?style=for-the-badge)](https://ydchen.cn)
-[![email1 Bage](https://img.shields.io/badge/zitonglu1996@gmail.com-Red?style=for-the-badge)](https://ychen096@e.ntu.edu.sg)
-[![email2 Bage](https://img.shields.io/badge/zitonglu@outlook.com-Red?style=for-the-badge)](https://ydchen.zje@gmail.com)
+[![email1 Bage](https://img.shields.io/badge/ychen096@e.ntu.edu.sg-Red?style=for-the-badge)](https://ychen096@e.ntu.edu.sg)
+[![email2 Bage](https://img.shields.io/badge/ydchen.zje@gmail.com-Red?style=for-the-badge)](https://ydchen.zje@gmail.com)
 
 -  biomedical data science @ ntu 22' <-  biomedical sciences @ zju-uoe 21' 
 -  living in singapore <- grew up in hangzhou <- born in wenzhou
