@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Yaoding Chen, currently a MSc biomedical data sciecne student at NTU Singapore. I obtained a joint BSc (Hons) degree in Biomedical Sciences from Zhejiang University and the University of Edinburgh in 2021, and started this accound in 2017 when I entered college, hence the name. I am now working (mostly still learning so far) to apply machine learning techniques to genomic sequencing.
+- MSc candidate in Biomedical Data Science @ NTU Singapore 🇸🇬 (2021-22)
+- BSc (Hons) Biomedical Sciences @ Zhejiang University 🇨🇳 & University of Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧 (2017-21)
+- working (still mostly learning) to apply machine learning techniques 🤖 to genomic sequencing 🧬
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydchen17&layout=compact)](https://github.com/ydchen17)
 
