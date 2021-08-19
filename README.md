@@ -1,4 +1,4 @@
--  msc biomedical data science @ ntu 22' <-  bsc (hons) biomedical sciences @ zju & uoe 21'
+-  msc biomedical data science @ ntu 22' <-  bsc (hons) biomedical sciences @ zju & uoe 21' <- hangzhou, china
 -  working (still mostly learning) to apply machine learning 🤖 techniques to genomic sequencing 🧬
 -  contact me at https://twitter.com/ydchen16 via twitter
 
