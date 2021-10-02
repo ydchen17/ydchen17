@@ -14,9 +14,8 @@ I'm Yaoding Chen 🇨🇳 !
 ----
 
 -  Bio Data Sci @ NTU (Singapore, 21-22') <- Biomed @ ZJU-UoE (Haining, China, 17-21')
--  Living in Singapore 🇸🇬 <- Worked in Shanghai 🇨🇳 <- Grew up in Hangzhou <- Born in Wenzhou
--  Learning to apply machine learning 🤖 techniques to genomic sequencing 🧬
--  Also interested in finance, history, neuroscience & Singlish :D
+-  Living in Singapore 🇸🇬 <- Lived in Shanghai, Hangzhou, Haining, Wenzhou 🇨🇳 
+-  be simple, be simple, be simple....
 
 ----
 
