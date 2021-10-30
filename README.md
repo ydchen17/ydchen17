@@ -2,7 +2,7 @@
 
 I'm Yaoding Chen 🇨🇳 !
 
-[![Website Badge](https://img.shields.io/badge/My-Website-blue?style=for-the-badge)](https://ydchen.cn)
+[![Website Badge](https://img.shields.io/badge/My-Website-blue?style=for-the-badge)](https://ydchen.net/)
 [![twitter badge](https://img.shields.io/twitter/follow/ydchen16?color=lightgrey&logoColor=blue&style=for-the-badge&logo=twitter)](https://twitter.com/ydchen16)
 <br>
 [![email1 Badge](https://img.shields.io/badge/ychen096@e.ntu.edu.sg-Red?style=for-the-badge)](mailto:ychen096@e.ntu.edu.sg)
