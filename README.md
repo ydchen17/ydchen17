@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Yaoding Chen 🇨🇳 !
+I'm Yaoding Chen!
 
 [![Website Badge](https://img.shields.io/badge/My-Website-blue?style=for-the-badge)](https://ydchen.net/)
 [![twitter badge](https://img.shields.io/twitter/follow/ydchen16?color=lightgrey&logoColor=blue&style=for-the-badge&logo=twitter)](https://twitter.com/ydchen16)
@@ -15,7 +15,6 @@ I'm Yaoding Chen 🇨🇳 !
 
 -  Bio Data Sci @ NTU (Singapore, 21-22') <- Biomed @ ZJU-UoE (Haining, China, 17-21')
 -  Living in Singapore 🇸🇬 <- Lived in Shanghai, Hangzhou, Haining, Wenzhou 🇨🇳 
--  Looking for PhD opportunities...
 
 ----
 
