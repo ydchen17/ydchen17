@@ -13,7 +13,7 @@ I'm Yaoding Chen!
 
 ----
 
--  Bio Data Sci @ NTU (Singapore, 21-22') <- Biomed @ ZJU-UoE (Haining, China, 17-21')
+-  Bio Data Sci @ NTU (Singapore, '21-22) <- Biomed @ ZJU-UoE (Haining, China, '17-21)
 -  Living in Singapore 🇸🇬 <- Lived in Shanghai, Hangzhou, Haining, Wenzhou 🇨🇳 
 
 ----
