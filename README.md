@@ -19,5 +19,5 @@ I'm Yaoding Chen!
 ----
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydchen17&layout=compact&custom_title=🪂%20Life%20is%20short...)
-![Visitor Count](https://profile-counter.glitch.me/ydchen17/count.svg)
 ![github stats](https://github-readme-stats.vercel.app/api?username=ydchen17&how_icons=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&layout=compact&custom_title=🏗%20Keep%20building...)
+![Visitor Count](https://profile-counter.glitch.me/ydchen17/count.svg)
