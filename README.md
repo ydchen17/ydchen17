@@ -1,10 +1,6 @@
 ### Hi there 👋 
 
 I'm Yaoding Chen!
-
-[![Website Badge](https://img.shields.io/badge/My-Website-blue?style=for-the-badge)](https://ydchen.net/)
-[![twitter badge](https://img.shields.io/twitter/follow/ydchen16?color=lightgrey&logoColor=blue&style=for-the-badge&logo=twitter)](https://twitter.com/ydchen16)
-<br>
 [![email1 Badge](https://img.shields.io/badge/ychen096@e.ntu.edu.sg-Red?style=for-the-badge)](mailto:ychen096@e.ntu.edu.sg)
 [![email2 Badge](https://img.shields.io/badge/ydc@zju.edu.cn-Red?style=for-the-badge)](mailto:ydc@zju.edu.cn)
 [![email3 Badge](https://img.shields.io/badge/ydchen.zje@gmail.com-Red?style=for-the-badge)](mailto:ydchen.zje@gmail.com)
