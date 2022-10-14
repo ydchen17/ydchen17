@@ -4,8 +4,8 @@ I'm Yaoding Chen!
 
 ----
 
--  Bio Data Sci @ NTU (Singapore, '21-22) <- Biomed @ ZJU-UoE (Haining, China, '17-21)
--  Living in Singapore 🇸🇬 <- Lived in Shanghai, Hangzhou, Haining, Wenzhou 🇨🇳 
+-  Health Policy @ LSE (London, 2022-23) <- Bio Data Sci @ NTU (Singapore, 2021-22) <- Biomed @ ZJU-UoE (Haining, China, 2017-21)
+-  Living in London 🇬🇧 <- Lived in Singapore 🇸🇬, Shanghai, Hangzhou, Haining, Wenzhou 🇨🇳 
 
 ----
 
