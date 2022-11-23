@@ -1,13 +1,14 @@
 ### Hi there 👋 
 
-I'm Yaoding Chen!
+I'm Yaoding Chen! 
+- Living in London 🇬🇧 <- Lived in Singapore 🇸🇬, Shanghai, Hangzhou, Haining, Wenzhou 🇨🇳 
+- "All work and no play makes Jack a dull boy"
 
 ----
 
--  MSc International Health Policy @ LSE (London, 2022-23) 
+-  MSc International Health Policy @ LSE (England, 2022-23) 
 -  MSc Biomedical Data Science @ NTU (Singapore, 2021-22) 
 -  BSc Biomedical Sciences @ ZJU/UoE (China, 2017-21)
--  Living in London 🇬🇧 <- Lived in Singapore 🇸🇬, Shanghai, Hangzhou, Haining, Wenzhou 🇨🇳 
 
 ----
 
