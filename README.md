@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ydchen17/ydchen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Frank Chen**, a data-driven researcher with a passion for applying data science to solve real-world problems in health and policy. My work bridges geospatial analysis, health economics, and biomedical data mining to better understand and improve health systems.
 
-Here are some ideas to get you started:
+### 🔬 What I do
+- Analyse large health datasets using Python and R with geospatial and statistical modelling 
+- Apply natural language processing to explore public discourse on health policy  
+- Investigate how data science can support trust, transparency, and efficiency in healthcare
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in touch
+Feel free to reach out: [ydchen.lse@gmail.com](mailto:ydchen.lse@gmail.com)
+
+---
+
+*Thanks for visiting!*
