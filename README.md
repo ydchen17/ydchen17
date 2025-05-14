@@ -13,5 +13,3 @@ Feel free to reach out: [ydchen.lse@gmail.com](mailto:ydchen.lse@gmail.com)
 ---
 
 *Thanks for visiting!*
-
-<img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=FuqCm0D1Cx5rY2Uc5pFWrepGbPojWDNBh4nr78PhyAw' style="display: transparent;"/>
